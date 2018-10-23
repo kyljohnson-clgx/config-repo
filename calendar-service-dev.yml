@@ -1,4 +1,4 @@
-omar
-  com
-    demo
+omar:
+  com:
+    demo:
       hello: Bonjour
